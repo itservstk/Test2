@@ -14,3 +14,5 @@ print(string.capwords(t))
 ##
 
 
+print(string.capwords(t)) 
+
